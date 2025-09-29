@@ -1,5 +1,4 @@
-# 🚀 About Me
- About Me:
+# 🚀 About Me:
 I am Santiago Uribe, a graduate of Applied Mathematics and Computer Science Engineering, and I hold an MSc in Artificial Intelligence. My main focus is on machine learning, large language models (LLMs), knowledge graph–based applications, and data-driven solutions.<br><br>Throughout my academic and professional journey, I have worked on projects involving fine-tuning LLMs for specialized tasks, recommender systems, predictive modeling, and graph-based retrieval systems (GraphRAG). I am especially interested in combining AI research and software engineering to create practical solutions that improve decision-making and automation.<br><br>I have professional experience as a Machine Learning Engineer and Full-Stack Developer at bld.ai, where I contribute to building scalable AI-powered applications. My strengths lie in problem-solving, adaptability, and continuous learning, with a balance between independent research and collaborative teamwork.
 
 
