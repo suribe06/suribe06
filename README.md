@@ -118,7 +118,9 @@ Social-network-enhanced recommender using NetInf cascade inference, graph featur
 
 <div align="center">
 
-[![Skills](https://skillicons.dev/icons?i=python,js,ts,react,fastapi,docker,postgres,mongodb,pytorch,aws,azure,git,linux&perline=12)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=python,js,ts,react,fastapi,docker,postgres,mongodb&perline=8" alt="Languages & backend" />
+<img src="https://cdn.simpleicons.org/langchain/1C3C3C" width="48" height="48" alt="LangChain" />
+<img src="https://skillicons.dev/icons?i=aws,azure,git,linux&perline=4" alt="Cloud & tools" />
 
 </div>
 
