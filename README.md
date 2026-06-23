@@ -1,18 +1,157 @@
-# 🚀 About Me:
-I am Santiago Uribe, a graduate of Applied Mathematics and Computer Science Engineering, and I hold an MSc in Artificial Intelligence. My main focus is on machine learning, large language models (LLMs), knowledge graph–based applications, and data-driven solutions.<br><br>Throughout my academic and professional journey, I have worked on projects involving fine-tuning LLMs for specialized tasks, recommender systems, predictive modeling, and graph-based retrieval systems (GraphRAG). I am especially interested in combining AI research and software engineering to create practical solutions that improve decision-making and automation.<br><br>I have professional experience as a Machine Learning Engineer and Full-Stack Developer at bld.ai, where I contribute to building scalable AI-powered applications. My strengths lie in problem-solving, adaptability, and continuous learning, with a balance between independent research and collaborative teamwork.
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=soft&height=200&text=Santiago%20Uribe&fontSize=48&fontColor=e6edf3&animation=fadeIn&stroke=58a6ff&color=0:0d1117,100:1f6feb" alt="Santiago Uribe" />
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-uribe-pastas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:santiu990506@gmail.com) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=4000&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+Systems+Engineer+%26+Agent+Architect;Production+LLM+Pipelines+%26+Hybrid+RAG;Multi-Agent+Orchestration+with+LangGraph)](https://git.io/typing-svg)
 
-# 💻 Tech Stack:
-![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Neo4J](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suribe06&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suribe06&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suribe06&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<br/>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=suribe06&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/santiago-uribe-pastas)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:santiu990506@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/suribe06)
+[![Location](https://img.shields.io/badge/Cali,%20Colombia-238636?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+### About
+
+AI Systems Engineer specializing in **production-grade LLM pipelines**, **hybrid RAG architectures**, and **multi-agent orchestration**. Dual background in Computer Science Engineering and Applied Mathematics — rigorous theory paired with hands-on deployment.
+
+Currently building scalable AI systems at **[bld.ai](https://bld.ai)** — from graph-enhanced retrieval and LangGraph agents to full-stack production apps.
+
+---
+
+### Experience
+
+| Role | Company | Period |
+| :--- | :--- | :--- |
+| **AI Engineer & Full Stack Developer** | [bld.ai](https://bld.ai) · Remote | May 2023 – Present |
+| **Data Engineering Intern** | Tecnoquímicas S.A. · Cali | Jan 2022 – Jul 2022 |
+
+<details>
+<summary><b>Highlights at bld.ai</b></summary>
+<br/>
+
+- Architected **hybrid RAG** pipelines — dense vector search (Qdrant) + Neo4j knowledge graphs for multi-hop reasoning and reduced hallucinations
+- Designed **multi-agent orchestration** with LangGraph: task decomposition, dynamic tool routing, graph-based state management
+- Fine-tuned transformer models for domain-specific classification; evaluated with BLEU, BERTScore, and perplexity
+- Built production backends (FastAPI, PostgreSQL, MongoDB) and frontends (React, TypeScript)
+- Integrated **MCP servers** and external APIs into autonomous, zero-interruption agent workflows
+
+</details>
+
+---
+
+### Featured Work
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### Multi-Agent AI Platform
+*2024 – Present*
+
+Production multi-agent platform with LangGraph — graph-based state, structured tool routing, and fully autonomous execution modes. Agents integrate with external APIs, MCP servers, and notification systems.
+
+`LangGraph` · `MCP` · `FastAPI` · `Python`
+
+</td>
+<td width="50%" valign="top">
+
+#### Hybrid RAG + Knowledge Graphs
+*2024 – 2025*
+
+Conversational AI combining Qdrant vector search with Neo4j graphs for multi-hop reasoning over structured and unstructured data. BM25 + dense hybrid retrieval for a Spanish tax-domain chatbot.
+
+`Qdrant` · `Neo4j` · `RAG` · `LangChain`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### LLM Fine-Tuning · Mining
+*2023 – 2024*
+
+Fine-tuned transformers for multi-class classification in industrial settings. Experiment tracking with MLflow; evaluation via BLEU, BERTScore, and perplexity.
+
+`Transformers` · `MLflow` · `PyTorch`
+
+</td>
+<td width="50%" valign="top">
+
+#### MAFPIN Recommender System
+*2021 – 2022* · [repo](https://github.com/suribe06/mafpin)
+
+Social-network-enhanced recommender using NetInf cascade inference, graph features (PageRank, centrality), and Collective Matrix Factorization. **Peer-reviewed publication** ↓
+
+`NetInf` · `Matrix Factorization` · `Network Science`
+
+</td>
+</tr>
+</table>
+
+---
+
+### Publication
+
+> **Uribe, S., Ovalle, C., Finke, J.** (2023). *Recommender Systems Based on Matrix Factorization and the Properties of Inferred Social Networks.* Discrete Mathematics, Algorithms and Applications.
+>
+> [![DOI](https://img.shields.io/badge/DOI-10.1142%2FS1793830923500520-007EC6?style=flat-square&logo=readthedocs&logoColor=white)](https://doi.org/10.1142/S1793830923500520)
+
+---
+
+### Education & Certifications
+
+| | |
+| :--- | :--- |
+| **MSc in Artificial Intelligence** · Universidad Internacional de La Rioja | 2023 – 2024 · GPA 8.4/10 |
+| **BSc Computer Science Engineering & Applied Mathematics** · PUJ Cali | 2017 – 2023 · CS 4.14/5 · Math 4.55/5 |
+| **AWS Cloud Practitioner Essentials** | Jan 2024 |
+| **Microsoft Certified: Azure Fundamentals** | Jan 2024 |
+
+---
+
+### Tech Stack
+
+<div align="center">
+
+[![Skills](https://skillicons.dev/icons?i=python,js,ts,react,fastapi,docker,postgres,mongodb,neo4j,aws,azure,git,linux&perline=13)](https://skillicons.dev)
+
+</div>
+
+| Area | Tools |
+| :--- | :--- |
+| **AI / LLM** | LangChain · LangGraph · Hybrid RAG (BM25 + dense) · Fine-Tuning · Tool-Calling Agents · MCP |
+| **Data & Infra** | Apache Airflow · ETL Pipelines · MLflow · Qdrant · Cassandra |
+| **Languages** | Python · TypeScript · JavaScript · SQL · R · C++ |
+
+---
+
+### GitHub Activity
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=suribe06&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub stats"/>
+&nbsp;
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suribe06&layout=compact&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Top languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=suribe06&theme=tokyo-night&hide_border=true&area=true&height=300" alt="Activity graph"/>
+
+</div>
+
+---
+
+<div align="center">
+
+*Building AI systems that are reliable, explainable, and maintainable at scale.*
+
+<br/>
+
+![Profile views](https://komarev.com/ghpvc/?username=suribe06&color=58a6ff&style=for-the-badge&label=Profile+views)
+
+</div>
